@@ -1,0 +1,15 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+bin/
+
+/lesson*/**/main
+
+.DS_Store
+.idea/
+.vscode/
+*.swp
